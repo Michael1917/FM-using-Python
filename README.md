@@ -54,6 +54,8 @@ plt.show()
 
 
 Output Waveform
+
+
 <img width="630" height="469" alt="download fm" src="https://github.com/user-attachments/assets/081747cc-8182-49c4-9304-6d157be7742f" />
 
 
